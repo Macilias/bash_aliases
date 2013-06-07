@@ -1,4 +1,4 @@
-bash_aliase
+bash_aliases
 =============================================================
 usefull aliases and funtions for mac and linux
 =============================================================
