@@ -7,7 +7,7 @@ usefull aliases and funtions for mac and linux
   - commands like: ftf='findThatFile', fia='findInAllFiles', fif='findInThatFile', rmtf='removeThouseFiles', rmtfr='removeThouseFolders'
 
 2 clean unmount, 
-  - commands like: rmmac='removeMacOsxTempFiles'
+  - commands like: rmmac='removeMacOsxTempFiles' (recursively from . )
 
 3 show/hide hidden files,
   - commands like: shf (show hidden files), hhf (hide hidden files)
