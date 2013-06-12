@@ -1,6 +1,6 @@
 bash_aliases
 =============================================================
-usefull aliases and funtions for mac and linux
+useful aliases and functions for mac and linux
 =============================================================
 
 1 advanced search and deletion, 
