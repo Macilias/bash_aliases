@@ -62,19 +62,7 @@ alias hhf='defaults write com.apple.finder AppleShowAllFiles FALSE;killall Finde
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
-#IMPORTANT LOCATIONS
-#alias env='cd ~/Programming/environment/'
-#alias guj='cd ~/Programming/GuJ/'
-
-#function copyArticleDcr() { scp develop@tweety-vi.guj.de:/app1/deploy/2008121101/apache/templatedata/ST2_Content/Artikel/data/$1 .;}
-#function copyVoteDcr() { scp develop@tweety-vi.guj.de:/app1/deploy/2008121101/apache/templatedata/ST2_Content/Vote/data/$1 .;}
-#function copyBacklog() { scp box@10.100.10.69:/usr/share/tomcat7/logs/backchannel.log .;}
-#function copyMigrationLog() { scp box@10.100.10.69:/var/log/tomcat7/catalina.out .;}
 alias gitinspector='/Users/niemc/Programming/environment/gitinspector/gitinspector/gitinspector.py -wTHl .'
-#alias tweety='ssh develop@tweety-vi.guj.de'
-#alias box='ssh box@10.100.10.69'
-
-
 
 #COUNT
 alias count='find . -type f | wc -l'
