@@ -45,8 +45,6 @@ alias jboss_online='cd ~/Programming/Eclipse/workspace_crm/crm/online/jboss/bin;
 alias jboss_batch='cd ~/Programming/Eclipse/workspace_crm/crm/batch/jboss/bin; ./run.sh -c batch'
 alias jboss_wf_batch='cd ~/Programming/Eclipse/workspace_crm/crm/batch_wf/wildfly/bin; ./run.sh -c batch'
 
-alias hkimba='ssh jbbatch@hdpvkimba01'
-#pw ma1k
 alias psjboss='ps -ax | grep jboss'
 
 #show hiden files:
